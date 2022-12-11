@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rithikchalla
-- 👀 I’m interested in machine learning, artificial intelligence, building pipelines for applications on cloud
+- 👀 I’m interested in machine learning, artificial intelligence, Data Science and Data Engineering
 - 🌱 I’m currently learning machine learning algorithms, etl process and tools
 - 💞️ I’m looking to collaborate on any machine learning and cloud related projects
 - 📫 You can reach out to me on 19rithik@gmail.com

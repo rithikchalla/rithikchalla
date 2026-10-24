@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Rithik Reddy Challa, Data and AI Engineer: Spark to Iceberg to AI agents">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151a3d"/></linearGradient>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5eead4"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="260" rx="18" fill="url(#bg)"/>
+  <g stroke="#1f2a52" stroke-width="1"><path d="M0 40H900M0 90H900M0 140H900M0 190H900M0 240H900" opacity=".35"/></g>
+  <text x="450" y="78" text-anchor="middle" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="44" font-weight="800" fill="url(#g)">Rithik Reddy Challa</text>
+  <text x="450" y="112" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="18" fill="#93a0cf">Data &amp; AI Engineer · LLM apps · Lakehouse · AI Agents</text>
+
+  <!-- pipeline -->
+  <path id="p1" d="M170 190H370" stroke="#2b376b" stroke-width="3" stroke-dasharray="6 6" fill="none"/>
+  <path id="p2" d="M530 190H730" stroke="#2b376b" stroke-width="3" stroke-dasharray="6 6" fill="none"/>
+  <g font-family="Consolas,Menlo,monospace" font-size="16" font-weight="700" text-anchor="middle">
+    <rect x="70" y="162" width="100" height="56" rx="12" fill="#0e1530" stroke="#5eead4"/><text x="120" y="196" fill="#5eead4">SPARK</text>
+    <rect x="370" y="162" width="160" height="56" rx="12" fill="#0e1530" stroke="#38bdf8"/><text x="450" y="196" fill="#38bdf8">ICEBERG</text>
+    <rect x="730" y="162" width="100" height="56" rx="12" fill="#0e1530" stroke="#a78bfa"/><text x="780" y="196" fill="#a78bfa">AGENTS</text>
+  </g>
+  <g filter="url(#glow)">
+    <circle r="5" fill="#5eead4"><animateMotion dur="2s" repeatCount="indefinite" begin="0s"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="5" fill="#38bdf8"><animateMotion dur="2s" repeatCount="indefinite" begin="-.66s"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="5" fill="#a78bfa"><animateMotion dur="2s" repeatCount="indefinite" begin="-1.33s"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="5" fill="#5eead4"><animateMotion dur="2s" repeatCount="indefinite" begin="-.3s"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="5" fill="#38bdf8"><animateMotion dur="2s" repeatCount="indefinite" begin="-1s"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="5" fill="#a78bfa"><animateMotion dur="2s" repeatCount="indefinite" begin="-1.66s"><mpath href="#p2"/></animateMotion></circle>
+  </g>
+  <rect x="370" y="162" width="160" height="56" rx="12" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;.9;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

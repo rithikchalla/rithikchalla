@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Rithik Reddy Challa, Data Engineer: Spark to Iceberg to AI agents">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Rithik Reddy Challa, Data and AI Engineer: Spark to Iceberg to AI agents">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151a3d"/></linearGradient>
     <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5eead4"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -7,7 +7,7 @@
   <rect width="900" height="260" rx="18" fill="url(#bg)"/>
   <g stroke="#1f2a52" stroke-width="1"><path d="M0 40H900M0 90H900M0 140H900M0 190H900M0 240H900" opacity=".35"/></g>
   <text x="450" y="78" text-anchor="middle" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="44" font-weight="800" fill="url(#g)">Rithik Reddy Challa</text>
-  <text x="450" y="112" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="18" fill="#93a0cf">Data Engineer · Lakehouse · Foundry Ontology · AI Agents</text>
+  <text x="450" y="112" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="18" fill="#93a0cf">Data &amp; AI Engineer · LLM apps · Lakehouse · AI Agents</text>
 
   <!-- pipeline -->
   <path id="p1" d="M170 190H370" stroke="#2b376b" stroke-width="3" stroke-dasharray="6 6" fill="none"/>

@@ -1,79 +1,89 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rithik Reddy Challa, Data Engineer: Spark, Iceberg, AI agents" width="100%">
+<img src="assets/banner.svg" alt="Rithik Reddy Challa, Data & AI Engineer" width="100%">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rithikchalla.github.io-c8ff2e?style=for-the-badge&logo=githubpages&logoColor=black)](https://rithikchalla.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rithikreddychalla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithikreddychalla)
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#-certification)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3D%20site-c8ff2e?style=for-the-badge&logo=githubpages&logoColor=black)](https://rithikchalla.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-19rithik%40gmail.com-ff4a1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19rithik@gmail.com)
 
 </div>
 
 ## 👋 Hi, I'm Rithik
 
-I'm a **data engineer** who builds the whole path from raw data to AI that acts on it:
+I'm a **Data & AI Engineer** in Boston. I like the place where data engineering meets AI: reliable pipelines underneath, and LLM applications on top that people actually use.
 
-- ⚡ **Apache Spark / PySpark** pipelines that stay fast as data grows
-- 🧊 **Lakehouses on Apache Iceberg**: ACID tables, schema evolution and time travel on object storage, alongside classic **data warehouses** like BigQuery
-- 🔷 **Palantir Foundry Ontology**: modelling objects, links and actions so data maps to the real world
-- 🤖 **AI agents** that plan, call tools (ontology, SQL, vector search) and take governed actions, not just chat
-- ☁️ **Google Cloud Certified Professional Data Engineer**
-
-📫 **19rithik@gmail.com**
+- 🤖 Building **AI agents**, **RAG** pipelines and **text-to-SQL** tools, and caring about **evals** and **guardrails** as much as the prompt
+- 🧊 Into **lakehouses**: Apache Spark, Apache Iceberg and warehouses like BigQuery and Snowflake
+- 🔷 Fan of **ontology-driven** data modelling with Palantir Foundry
+- 🌱 Currently putting more of my learning into public repos here, so watch this space
+- 📫 **19rithik@gmail.com** · [portfolio](https://rithikchalla.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/rithikreddychalla)
 
 ## 🧰 Toolbox
 
-**AI & agents**
-![AI Agents](https://img.shields.io/badge/AI%20Agents-14110f?style=flat-square)
-![LLM tool calling](https://img.shields.io/badge/LLM%20tool%20calling-14110f?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG%20%26%20vector%20search-14110f?style=flat-square)
+**AI & LLM**
+![LLM applications](https://img.shields.io/badge/LLM%20applications-14110f?style=flat-square)
+![Multi-agent systems](https://img.shields.io/badge/Multi--agent%20systems-14110f?style=flat-square)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Palantir AIP](https://img.shields.io/badge/Palantir%20AIP-101113?style=flat-square&logo=palantir&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20embeddings%20%C2%B7%20retrieval-14110f?style=flat-square)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-14110f?style=flat-square)
+![Tool calling](https://img.shields.io/badge/Tool%20calling-14110f?style=flat-square)
+![LLM evaluation](https://img.shields.io/badge/LLM%20evaluation-ff4a1c?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-ff4a1c?style=flat-square)
 ![Prompt engineering](https://img.shields.io/badge/Prompt%20engineering-14110f?style=flat-square)
 
-**Palantir Foundry**
-![Palantir Foundry](https://img.shields.io/badge/Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
-![Ontology](https://img.shields.io/badge/Foundry%20Ontology-101113?style=flat-square&logo=palantir&logoColor=white)
-
-**Lakehouse & processing**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+**Data engineering**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark%20%2F%20PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3a46ff?style=flat-square)
-![Data Lakehouse](https://img.shields.io/badge/Data%20Lake%20%2F%20Lakehouse-3a46ff?style=flat-square)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
-**Cloud & warehouse**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Palantir Foundry](https://img.shields.io/badge/Palantir%20Foundry%20(Ontology)-101113?style=flat-square&logo=palantir&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow%20%2F%20Composer-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-669DF6?style=flat-square)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub%20%C2%B7%20event--driven-669DF6?style=flat-square)
+![Data modeling](https://img.shields.io/badge/Data%20modeling-3a46ff?style=flat-square)
+![Data quality](https://img.shields.io/badge/Data%20quality-3a46ff?style=flat-square)
+![Semantic layers](https://img.shields.io/badge/Semantic%20layers-3a46ff?style=flat-square)
 
-**Languages & ML**
+**Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20(ADF%2C%20Blob%2C%20Functions)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/CI%2FCD%20%C2%B7%20Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Languages, frameworks & BI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/C%23%20%2F%20.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/BERT%20%2F%20NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 
 ## 🏅 Certification
 
-**Google Cloud Certified: Professional Data Engineer.** It covers designing data processing systems, ingesting and processing data, storing data, preparing and using data for analysis, and maintaining and automating data workloads.
+**Google Cloud Certified Professional Data Engineer** (January 2025): designing, building, securing and operating data systems on Google Cloud.
 
-## 🔄 How I work
+## 🎓 Education
 
-```text
- INGEST ──▶ SPARK ──▶ ICEBERG ──▶ ONTOLOGY ──▶ AI AGENT
- APIs,      clean,    ACID tables  objects,      plans, calls tools,
- files,     join,     on the lake, links and     queries the lake and
- streams    aggregate time travel  actions       takes governed actions
-```
+- **MS, Data Analytics Engineering**, Northeastern University, Boston
+- **BE, Computer Science**, Osmania University (MVSR Engineering College), Hyderabad
 
-## 🚀 Featured projects
+## 🚀 Public projects
 
-| Project | What it does | Stack |
+| Project | What it is | Stack |
 | --- | --- | --- |
 | [**Coding Agent in Go**](https://github.com/rithikchalla/codecrafters-claude-code-go) | My own Claude Code-style coding assistant: an agent loop over an LLM with tool calling | Go · LLM · Agents |
-| [**Finance ETL Process**](https://github.com/smurffers/finance-ETL-Process) | Pulls financial statements of all publicly traded companies from SEC EDGAR into a de-normalised, queryable data asset | Python · ETL · Testing |
-| [**dbt Transformation Project**](https://github.com/smurffers/dbt-dibi-project) | Macros, type casting and denormalised tables with nested and repeated fields for BI-ready data | dbt · SQL · BigQuery |
+| [**Finance ETL Process**](https://github.com/smurffers/finance-ETL-Process) | Pulls financial statements of public companies from SEC EDGAR into a de-normalised, queryable data asset | Python · ETL · Testing |
+| [**dbt Transformation Project**](https://github.com/smurffers/dbt-dibi-project) | Macros, type casting and nested, repeated tables for BI-ready data | dbt · SQL · BigQuery |
 | [**Fakeddit News Detection**](https://github.com/rithikchalla/fakeddit-news-detection) | Fake-news detection on a 1M+ sample dataset: a from-scratch neural net vs a fine-tuned BERT | Python · NLP · BERT |
-| [**Predicting Readmission Rate**](https://github.com/rithikchalla/predicting-readmission-rate) | Predicts hospital readmission among diabetic patients | Python · ML |
-| [**OCR Streamlit App**](https://github.com/rithikchalla/ocr-streamlit-app-) | Web app that extracts text from images | Python · Streamlit |
+
+More public projects on AI agents and lakehouses are on the way.
 
 ## 📊 GitHub stats
 
@@ -84,6 +94,6 @@ I'm a **data engineer** who builds the whole path from raw data to AI that acts 
 
 <div align="center">
 
-**Let's build something with your data.** → [19rithik@gmail.com](mailto:19rithik@gmail.com)
+**Say hi** → [19rithik@gmail.com](mailto:19rithik@gmail.com) · [rithikchalla.github.io/portfolio](https://rithikchalla.github.io/portfolio/)
 
 </div>
